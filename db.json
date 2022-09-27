@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Triansyah Aditya",
+      "job": "Fullstack Web Developer",
+      "skill": ["Javascript", "express js", "boostrap", "Reactjs"],
+      "address": "Tasikmalaya, Level 15"
+    },
+    {
+      "id": 2,
+      "name": "Abdus Salim",
+      "job": "Web Developer",
+      "skill": ["Javascript", "Typescript", "CSS", "Reactjs"],
+      "address": "Banjarmasin, Level 3"
+    },
+    {
+      "id": 3,
+      "name": "Nhana Taryana",
+      "job": "Web Developer",
+      "skill": ["Javascript", "boostrap", "Posgresql"],
+      "address": "Indramayu, Level 7"
+    },
+    {
+      "id": 4,
+      "name": "Yafao Daeli",
+      "job": "Web Developer",
+      "skill": ["Javascript", "Reactjs", "Reactjs"],
+      "address": "Jakarta, Level 12"
+    },
+    {
+      "id": 5,
+      "name": "Rizki Ramadhan R",
+      "job": "Web Developer",
+      "skill": ["Javascript", "Reactjs", "Reactjs", "Next Js"],
+      "address": "Bogor, Level 20"
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": {
+    "id": 1,
+    "name": "Aditya Triansyah",
+    "location": "Tasikmalaya, Jawa Barat",
+    "job": "Fulstack Web Developer",
+    "jobSkill": "Fullstack Web Developer",
+    "skill": [
+      "Posgresql",
+      "Javascript",
+      "express js",
+      "HTML",
+      "CSS",
+      "boostrap",
+      "Reactjs"
+    ]
+  }
+}
